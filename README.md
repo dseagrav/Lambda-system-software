@@ -1,2 +1,8 @@
 # Lambda-system-software
-The Lambda Lisp operating system 
+This repository is for tracking issues in and changes to the Lambda oerating system software.
+
+DO NOT UPLOAD ANY LMI/GIGAMOS SOURCE CODE TO THIS REPOSITORY.
+
+THE LAMBDA OPERATING SYSTEM IS COPYRIGHTED AND CANNOT BE HOSTED ON GITHUB.
+
+THIS REPOSITORY IS FOR ISSUE AND CHANGE TRACKING ONLY.
